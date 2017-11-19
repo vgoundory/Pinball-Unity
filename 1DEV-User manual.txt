@@ -1,0 +1,4 @@
+Z 	- left flipper
+M 	- right flipper
+[space] - Spring trigger
+The user is encouraged to play around as well
